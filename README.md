@@ -25,7 +25,7 @@ For Sales
 - How is gender representation distributed across locations?
 - What is the gender balance across departments?
 
--  ## Dashboard Interactions 
+ ## Dashboard Interactions 
  
  
   
