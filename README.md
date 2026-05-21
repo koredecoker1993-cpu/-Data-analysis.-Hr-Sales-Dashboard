@@ -44,14 +44,14 @@ For Sales
  
  ## Project Insight
 
- # Sales Insights
+ ## Sales Insights
 - Revenue performance is strong, with total sales exceeding key benchmarks and consistent contribution from major product categories.
 - Top‑selling products and categories drive a significant share of total revenue, indicating clear customer preferences and strong product‑market fit.
 - Corporate and Consumer segments contribute the highest sales volume, showing strong engagement from business and individual buyers.
 - Location‑based performance reveals that certain regions consistently outperform others, helping identify high‑value markets.
 - Year‑over‑year sales trends show steady growth, highlighting improved customer acquisition and retention strategies.
 
-# HR Insights
+## HR Insights
 - Workforce distribution shows a balanced spread across departments, with clear visibility into employee count and gender representation.
 - Salary expenditure is highest in key operational departments, reflecting their strategic importance and staffing needs.
 - Top‑earning employees are concentrated in leadership and technical roles, aligning with industry compensation standards.
