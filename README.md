@@ -27,7 +27,20 @@ For Sales
 
  ## Dashboard Interactions 
  <a href="https://github.com/koredecoker1993-cpu/-Data-analysis.-Hr-Sales-Dashboard/blob/main/Sales%20%26%20Hr%20Dashboard.png">View Dashboard</a>
- 
+
+##  Process
+- This project applies a structured data analytics workflow using Excel and Tableau to convert raw business data into actionable insights across Sales and HR performance.
+- Data Collection: Gathered and consolidated sales, product, and HR datasets into a unified source for analysis.
+- Data Cleaning: Removed duplicates, handled missing values, standardized formats, and validated data in Excel.
+- Data Transformation: Created calculated KPIs (Revenue, Quantity Sold, Salary, Employee Count) and grouped data by year, segment, category, and department.
+- Data Modeling: Built relationships between tables and designed hierarchies for drill‑down analysis (Country → City → Department).
+- Visualization: Developed interactive Tableau dashboards  Sales (revenue, product trends, segment performance) and HR (salary, gender, department insights).
+- Insight Generation: Identified top‑performing products, salary distribution patterns, and workforce trends to support strategic decision‑making.
+
+ ## Dashboard 
+
+ <img width="1421" height="806" alt="Sales   Hr Dashboard" src="https://github.com/user-attachments/assets/b8489b2a-5c83-46bb-88d2-b411b51241ce" />
+
  
   
 
