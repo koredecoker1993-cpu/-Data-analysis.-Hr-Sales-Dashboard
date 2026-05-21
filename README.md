@@ -42,5 +42,22 @@ For Sales
  <img width="1421" height="806" alt="Sales   Hr Dashboard" src="https://github.com/user-attachments/assets/b8489b2a-5c83-46bb-88d2-b411b51241ce" />
 
  
+ ## Project Insight
+
+ # Sales Insights
+- Revenue performance is strong, with total sales exceeding key benchmarks and consistent contribution from major product categories.
+- Top‑selling products and categories drive a significant share of total revenue, indicating clear customer preferences and strong product‑market fit.
+- Corporate and Consumer segments contribute the highest sales volume, showing strong engagement from business and individual buyers.
+- Location‑based performance reveals that certain regions consistently outperform others, helping identify high‑value markets.
+- Year‑over‑year sales trends show steady growth, highlighting improved customer acquisition and retention strategies.
+
+# HR Insights
+- Workforce distribution shows a balanced spread across departments, with clear visibility into employee count and gender representation.
+- Salary expenditure is highest in key operational departments, reflecting their strategic importance and staffing needs.
+- Top‑earning employees are concentrated in leadership and technical roles, aligning with industry compensation standards.
+- Gender distribution across cities and departments highlights areas with strong diversity and areas needing improvement.
+- Department‑level salary analysis helps identify cost‑intensive units and supports budgeting and workforce planning.
+
+ 
   
 
