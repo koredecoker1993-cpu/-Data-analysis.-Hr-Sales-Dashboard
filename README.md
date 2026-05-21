@@ -26,6 +26,7 @@ For Sales
 - What is the gender balance across departments?
 
  ## Dashboard Interactions 
+ <a href="https://github.com/koredecoker1993-cpu/-Data-analysis.-Hr-Sales-Dashboard/blob/main/Sales%20%26%20Hr%20Dashboard.png">View Dashboard</a>
  
  
   
