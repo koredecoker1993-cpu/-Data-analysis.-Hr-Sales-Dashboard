@@ -24,6 +24,8 @@ For Sales
 - Which departments have the highest salary expenditure?
 - How is gender representation distributed across locations?
 - What is the gender balance across departments?
+
+-  ## Dashboard Interactions 
  
  
   
