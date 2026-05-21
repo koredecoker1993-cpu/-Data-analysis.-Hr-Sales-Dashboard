@@ -4,3 +4,6 @@ The objective of this project is to analyze and visualize Sales and HR performan
 
 ## Dataset used
 
+- <a href="https://github.com/koredecoker1993-cpu/-Data-analysis.-Hr-Sales-Dashboard/blob/main/HR%20Data%20set.csv">Dataset</a>
+- <a href="https://github.com/koredecoker1993-cpu/-Data-analysis.-Hr-Sales-Dashboard/blob/main/Sales%20Data%20Part1.txt">Dataset</a>
+
