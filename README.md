@@ -15,4 +15,16 @@ For Sales
 - Which customer segments (Corporate, Home Office, Consumer) generate the most revenue?
 - How does sales distribution vary by location?
 - How has year‑over‑year sales performance changed?
+  
+ ## Question (KPIS)
+ For HR 
+- What is the overall workforce size and salary expenditure?
+- How are salaries distributed between male and female employees?
+- Who are the top‑earning employees and in which departments?
+- Which departments have the highest salary expenditure?
+- How is gender representation distributed across locations?
+- What is the gender balance across departments?
+ 
+ 
+  
 
